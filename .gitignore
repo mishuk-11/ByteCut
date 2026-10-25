@@ -1,0 +1,6 @@
+# Build output - attach dist\AppDataCleaner.exe to a GitHub Release instead of committing it
+dist/
+build/obj/
+
+# Machine-specific test output
+tests/results/
